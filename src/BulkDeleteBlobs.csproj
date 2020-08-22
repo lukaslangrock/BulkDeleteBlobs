@@ -9,7 +9,7 @@
     <Version>0.1.0</Version>
     <Description>Deletes all blobs in an Azure Storage Account container</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <RepositoryUrl>https://github.com/Lukas34/BulkDeleteBlobs</RepositoryUrl>
+    <RepositoryUrl>https://github.com/LukasLangrock/BulkDeleteBlobs</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageReleaseNotes>pre release</PackageReleaseNotes>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
